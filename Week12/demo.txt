@@ -1,0 +1,6 @@
+Hello, this is a sample file.
+It contains several lines of text.
+Searching for specific patterns can be helpful.
+Patterns like "error", "warning", or "info" often show up in logs.
+Feel free to add more content as needed.
+Good luck with your script testing!
